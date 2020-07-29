@@ -1,0 +1,5 @@
+Making a folder in GITHUB:
+1.select a new file option
+2.Name the folder
+3.add / and then file name
+4. Voila your folder has been created!!! With a file in it.
